@@ -1,2 +1,2 @@
 # PyAST
-A python library for code preprocessing by encapsulating LLVM
+A C++/Python library for code preprocessing by encapsulating LLVM
